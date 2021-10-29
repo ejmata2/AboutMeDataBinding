@@ -17,4 +17,5 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur ut finibus ri
         Proin consequat pulvinar augue viverra faucibus. Donec vulputate ornare lorem ac cursus.
         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam tempor erat porta sem imperdiet accumsan.
         Curabitur feugiat condimentum venenatis.\n\n</string>
+    <string name="what_is_your_nickname">¿Cuál es tu apodo?</string>
 </resources>
