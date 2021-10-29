@@ -2,14 +2,19 @@
     <string name="app_name">AboutMe</string>
     <string name="name">Eloy</string>
     <string name="yellow_star">Yellow star</string>
-    <string name="bio">Hi, my name is Aleks.
-\n\nI love fish.
-\n\nThe kind that is alive and swims around in an aquarium or river, or a lake, and definitely the ocean.
-\nFun fact is that I have several aquariums and also a river.
-\n\nI like eating fish, too. Raw fish. Grilled fish. Smoked fish. Poached fish - not so much.
-\nAnd sometimes I even go fishing.
-\nAnd even less sometimes, I actually catch something.
-\n\nOnce, when I was camping in Canada, and very hungry, I even caught a large salmon with my hands.
-\n\nI\'ll be happy to teach you how to make your own aquarium.
-\nYou should ask someone else about fishing, though.\n\n</string>
+    <string name="bio">
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur ut finibus risus, nec sagittis diam.
+        In sit amet massa justo. Cras in nisi eget ipsum molestie vulputate sed id justo.
+        Pellentesque efficitur vestibulum lobortis.
+        Phasellus lectus neque, mollis in quam et, facilisis volutpat ligula.
+        Donec rhoncus justo libero, eu ornare magna finibus vel. Aliquam erat volutpat.
+        Etiam eget purus semper, faucibus ante vel, tincidunt lorem.
+        Morbi iaculis cursus cursus. Curabitur ullamcorper metus lobortis congue feugiat.
+\n\nMaecenas lectus nisl, bibendum non purus ac, tristique elementum tellus.
+        Proin venenatis ut est nec lobortis. Cras vitae porta elit. Quisque mollis quam orci, et pellentesque risus porttitor nec.
+        Nulla pretium lacus eros, eget sagittis eros porttitor in. Quisque in eros augue.
+        Nunc condimentum sapien bibendum porttitor auctor.
+        Proin consequat pulvinar augue viverra faucibus. Donec vulputate ornare lorem ac cursus.
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam tempor erat porta sem imperdiet accumsan.
+        Curabitur feugiat condimentum venenatis.\n\n</string>
 </resources>
